@@ -1,10 +1,11 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About our values
+published: true
 ---
 ### Sukumu-grown coffee
-Sukumu Coffee is so good!!!
+Sukumu Coffee ~ is so good!!!
 
 ### Sukumu origin
 Best origin coffee
