@@ -7,10 +7,10 @@ title: About our values
 Sukumu Coffee is so good!!!
 
 ### Sukumu origin
-Single-origin coffee
+Best origin coffee
 
 ### Sukumu farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services.
+Sustainable agriculture. Sukumu farms in sustainable ways based on an understanding of ecosystem services.
 
 ### Sukumu sourcing
 Direct trade is a form of sourcing practiced by some coffee roasters. 
