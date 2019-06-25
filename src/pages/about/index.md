@@ -1,14 +1,14 @@
 ---
 templateKey: about-page
 path: /about
-title: About our values
+title: Sukumu values
 published: true
 ---
 ### Sukumu-grown coffee
-Sukumu Coffee ~ is so good!!!
+Sukumu Coffee is so awesome!!!
 
 ### Sukumu origin
-Best origin coffee
+Participates in operational planning with top management and key operating officials to advise on the contracting implications of proposed management decisions, such as conversion of in-house performance to contract performance, and to recommend alternatives based on contracting considerations. Participates in or conducts conferences, staff studies, etc. pertaining to overall management and programming, mid and long term planning for acquisition activities.
 
 ### Sukumu farming
 Sustainable agriculture. Sukumu farms in sustainable ways based on an understanding of ecosystem services.
