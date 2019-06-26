@@ -53,7 +53,7 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/bannana.png
+    image: /img/2019-06-26-teach.md
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
