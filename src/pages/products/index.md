@@ -97,4 +97,4 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'      
-   ---
+    ---
