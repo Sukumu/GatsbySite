@@ -56,7 +56,7 @@ main:
     image: /img/7456836E-7CD4-43EF-9312-FB744ED25529.jpeg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: ![Sukumu's Special Teachers.!](https://pngimg.com/uploads/teacher/teacher_PNG15.png "Teacher for Sukumu")
+    image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
