@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:figma="http://www.figma.com/figma/ns" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200.000000 200.000000"
  preserveAspectRatio="xMidYMid meet">
    <title>Logo</title>
-<g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)" stroke="none" figma:type="canvas">
+<g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)" fill="#f40" stroke="none" figma:type="canvas">
  <g style="mix-blend-mode:normal" figma:type="vector" transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)"  fill="#f40">
          <use xlink:href="#b" style="mix-blend-mode:normal" />
          <use xlink:href="#c" style="mix-blend-mode:normal" />
@@ -11,7 +11,7 @@
       </g>
    </g>
    <defs>
-<path id="b" path d="M100 1000 l0 -250 900 0 900 0 0 250 0 250 -900 0 -900 0 0 -250z
+<path id="b" d="M100 1000 l0 -250 900 0 900 0 0 250 0 250 -900 0 -900 0 0 -250z
 m928 221 c13 -1 20 -5 17 -11 -4 -6 7 -10 25 -10 17 0 29 -4 25 -9 -10 -17 11
 -21 113 -24 88 -3 105 -7 140 -29 21 -14 39 -33 39 -42 0 -9 -5 -15 -11 -13
 -6 3 -10 9 -9 15 2 6 -10 20 -26 31 -24 18 -47 21 -155 23 -69 2 -126 5 -126
