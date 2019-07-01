@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:figma="http://www.figma.com/figma/ns" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>Logo</title>
-<g fill="#f40" xml:space="preserve" stroke="none" font-size="24" font-family="serif" text-anchor="middle" stroke-width="0" figma:type="canvas">
+<g transform="translate(-1470)" fill="#f40" xml:space="preserve" stroke="none" font-size="24" font-family="serif" text-anchor="middle" stroke-width="0" figma:type="canvas">
+    <g style="mix-blend-mode:normal" figma:type="vector" transform="translate(1470)">
+         <use xlink:href="#S"/>
+         <use xlink:href="#U"/>
+         <use xlink:href="#K"/>
+         <use xlink:href="#U2"/>
+         <use xlink:href="#M"/>
+         <use xlink:href="#U3"/>
+   </g>
   <text y="145.96" x="60" id="S">S</text>
   <text y="145.96" x="80" id="U">U</text>
   <text y="145.96" x="100" id="K">K</text>
-  <text y="145.96" x="120" id="U">U</text>
+  <text y="145.96" x="120" id="U2">U</text>
   <text y="145.96" x="140" id="M">M</text>
-  <text y="145.96" x="160" id="U">U</text>
+  <text y="145.96" x="160" id="U3">U</text>
  </g>
 </svg>
