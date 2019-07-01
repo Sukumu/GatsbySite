@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:figma="http://www.figma.com/figma/ns" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>Logo</title>
-<g>
-fill="#f40" stroke="none" figma:type="canvas">
+<g fill="#f40" stroke="none" figma:type="canvas">
   <text xml:space="preserve" y="145.96" x="60" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-size="24" font-family="serif" id="S">S</text>
   <text xml:space="preserve" y="145.96" x="80" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-size="24" font-family="serif" id="U">U</text>
   <text xml:space="preserve" y="145.96" x="100" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-size="24" font-family="serif" id="K">K</text>
