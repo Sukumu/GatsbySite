@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:figma="http://www.figma.com/figma/ns" xmlns:xlink="http://www.w3.org/1999/xlink" 
-viewBox="0 0 2000 600"
-preserveAspectRatio="xMidYMid meet">
+viewBox="0 0 2000 2000">
    <title>Logo</title>
    <g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)" figma:type="canvas">
-      <g style="mix-blend-mode:normal" figma:type="vector" transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)" stroke="none" fill="#f40">
+      <g style="mix-blend-mode:normal" figma:type="vector" transform="translate(-50)" fill="#f40">
          <use xlink:href="#s"/>
          <use xlink:href="#u"/>
          <use xlink:href="#k"/>
