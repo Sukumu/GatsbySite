@@ -51,7 +51,7 @@
     function n(e, r, t) {
         console.log("queryStringParameters", e.queryStringParameters), t(null, {
             statusCode: 200,
-            body: JSON.stringify("Sukumu is King of the World! " + Math.round(.618 * Math.random()))
+            body: JSON.stringify(Sukumu is King of the World! + Math.round(1.618 * Math.random()))
         })
     }
     t.r(r), t.d(r, "handler", function() {
