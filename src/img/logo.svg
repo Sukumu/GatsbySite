@@ -4,12 +4,12 @@ viewBox="0 0 900 800">
    <title>Logo</title>
    <g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)" figma:type="canvas">
       <g style="mix-blend-mode:normal" figma:type="vector" transform="translate(-50)">
-         <use xlink:href="#s" fill="#eb2814"/>
-         <use xlink:href="#u" fill="#ebe414"/>
-         <use xlink:href="#k" fill="#eb7914"/>
-         <use xlink:href="#u2" fill="#14eb16"/>
-         <use xlink:href="#m" fill="#145deb"/>
-         <use xlink:href="#u3" fill="#5b14eb"/>
+         <use xlink:href="#s" fill="#FF0800"/>
+         <use xlink:href="#u" fill="#ED9121"/>
+         <use xlink:href="#k" fill="#FFEF00"/>
+         <use xlink:href="#u2" fill="#8DB600"/>
+         <use xlink:href="#m" fill="#0000FF"/>
+         <use xlink:href="#u3" fill="#6F00FF"/>    
 </g>
 <path id="s" d="M10 1889 c-118 -19 -219 -72 -289 -149 -77 -85 -96 -170 -96 -419 0
 -312 36 -398 200 -481 76 -39 139 -52 385 -85 183 -24 202 -29 223 -51 28 -31
