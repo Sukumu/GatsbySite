@@ -39,39 +39,6 @@ export const ProductPageTemplate = ({
         {title}
       </h2>
     </div>
-
-<div id="SukumuDiv" class="anychart-embed SukumuDiv">
- <script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-base.min.js"></script> 
-<script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-core.min.js"></script>
-<script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-stock.min.js"></script>
-<script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-annotations.min.js"></script>
-<script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-exports.min.js"></script>
-<script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-ui.min.js"></script>
-<script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-data-adapter.min.js"></script>
-<script src="https://cdn.anychart.com/csv-data/csco-daily-short.js"></script>
-<div id="SukumuStyle" style="display:none;">
-</div>
-<select id="typeSelect" onclick="create()">
-    <option value="default" selected disabled>Annotation Type</option>
-    <option value="andrews-pitchfork">Andrews' Pitchfork</option>
-    <option value="ellipse">Ellipse</option>
-    <option value="fibonacci-arc">Fibonacci Arc</option>
-    <option value="fibonacci-fan">Fibonacci Fan</option>
-    <option value="fibonacci-retracement">Fibonacci Retracement</option>
-    <option value="fibonacci-timezones">Fibonacci Time Zones</option>  
-    <option value="horizontal-line">Horizontal Line</option> 
-    <option value="infinite-line">Infinite Line</option>
-    <option value="line">Line Segment</option>
-    <option value="marker">Marker</option>   
-    <option value="ray">Ray</option>
-    <option value="rectangle">Rectangle</option>
-    <option value="trend-channel">Trend Channel</option>
-    <option value="triangle">Triangle</option>
-    <option value="vertical-line">Vertical Line</option>
-</select>
-<button onclick="removeAll()">Remove All</button>
-<div id="container"></div></div>
-
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
