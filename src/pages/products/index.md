@@ -4,7 +4,7 @@ path: /products
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: Great with a conscience
-description: Kaldi
+description: Sukumu
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -36,33 +36,29 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth
-    quote: The first time
-  - author: Philipp
-    quote: Kaldi is the
+  - author: Sukumu
+    quote: The first
+  - author: Sukumu
+    quote: Sukumu is the
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly
-  description: We make it easy to
+  heading: Forex
+  description: We make it easy
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Sukumu Pitch Forks"
+        - Renko Sukumu"
       plan: Small
       price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: Great for Sukumu Traders
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - Sukumu Technical Analysis
       plan: Big
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Want to practice
       items:
         - Whatever you need
-        - Green or roasted beans
         - Unlimited varieties
       plan: Custom
       price: '??'
