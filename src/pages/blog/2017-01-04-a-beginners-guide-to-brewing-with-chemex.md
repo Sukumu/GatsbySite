@@ -20,8 +20,8 @@ Sukumu Renko
 ## The little secrets of brick laying
 
 1. Always trade with the trend.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+2. Use confirmation indicators (volume, volitility, momentum etc.).
+3. Never enter without profit targets and stop loss.
+4. Entry and exit timing is key.
 
 
