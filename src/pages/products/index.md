@@ -1,10 +1,10 @@
 ---
 templateKey: product-page
 path: /products
-title: Our Coffee
+title: title
 image: /img/jumbotron.jpg
-heading: Great with a conscience
-description: Sukumu
+heading: heading
+description: description
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -12,7 +12,7 @@ intro:
         We sell
     - image: /img/coffee-gear.png
       text: |
-        We offer
+        We buy
     - image: /img/tutorials.png
       text: |
         Love a great
@@ -21,11 +21,11 @@ intro:
         We believe
   heading: What we offer
   description: |
-    Kaldi is the
+    Sukumu is King
 main:
-  heading: Great coffee
+  heading: Great Trades
   description: |
-    We hold our
+    Park
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/7456836E-7CD4-43EF-9312-FB744ED25529.jpeg
@@ -37,12 +37,12 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Sukumu
-    quote: The first
+    quote: The first testimonial
   - author: Sukumu
-    quote: Sukumu is the
+    quote: Sukumu is the testimony
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Forex
+  heading: Forex heading
   description: We make it easy
   plans:
     - description: Perfect.
