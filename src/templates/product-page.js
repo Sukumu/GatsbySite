@@ -48,11 +48,9 @@ export const ProductPageTemplate = ({
 <script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-exports.min.js"></script>
 <script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-ui.min.js"></script>
 <script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-data-adapter.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/Sukumu/GatsbySite@latest/src/components/appFunctions.js"></script>
 <script src="https://cdn.anychart.com/csv-data/csco-daily-short.js"></script>
 <div id="SukumuStyle" style="display:none;">
 </div>
-
 <select id="typeSelect" onclick="create()">
     <option value="default" selected disabled>Annotation Type</option>
     <option value="andrews-pitchfork">Andrews' Pitchfork</option>
@@ -72,10 +70,7 @@ export const ProductPageTemplate = ({
     <option value="vertical-line">Vertical Line</option>
 </select>
 <button onclick="removeAll()">Remove All</button>
-
-<div id="container"></div>
-
-</div>
+<div id="container"></div></div>
 
     <section className="section section--gradient">
       <div className="container">
