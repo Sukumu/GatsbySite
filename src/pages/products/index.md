@@ -1,31 +1,30 @@
 ---
-templateKey: 'product-page'
+templateKey: product-page
 path: /products
 title: Our Coffee
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi
+heading: Great with a conscience
+description: Kaldi
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
+      text: |
         We sell
     - image: /img/coffee-gear.png
-      text: >
+      text: |
         We offer
     - image: /img/tutorials.png
-      text: >
+      text: |
         Love a great
     - image: /img/meeting-space.png
-      text: >
+      text: |
         We believe
   heading: What we offer
-  description: >
+  description: |
     Kaldi is the
 main:
   heading: Great coffee
-  description: >
+  description: |
     We hold our
   image1:
     alt: A close-up of a paper filter filled with ground coffee
@@ -38,16 +37,13 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth
-    quote: >-
-      The first time
+    quote: The first time
   - author: Philipp
-    quote: >-
-      Kaldi is the
+    quote: Kaldi is the
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly
-  description: >-
-    We make it easy to
+  description: We make it easy to
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -69,5 +65,6 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??' 
+      price: '??'
+published: true
 ---
