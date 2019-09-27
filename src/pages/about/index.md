@@ -4,17 +4,17 @@ path: /about
 title: Sukumu values
 published: true
 ---
-### Sukumu-grown coffee
-Sukumu Coffee is so awesome!!!
+### Sukumu Study
+Sukumu technical analysis is so awesome!!!
 
-### Sukumu origin
-Participates in operational planning with top management and key operating officials to advise on the contracting implications of proposed management decisions, such as conversion of in-house performance to contract performance, and to recommend alternatives based on contracting considerations. Participates in or conducts conferences, staff studies, etc. pertaining to overall management and programming, mid and long term planning for acquisition activities.
+### Sukumu filter
+Participates in organic and autmated trading.
 
-### Sukumu farming
-Sustainable agriculture. Sukumu farms in sustainable ways based on an understanding of ecosystem services.
+### Sukumu Trade
+Sustainable trades. Trade with the market's money.
 
-### Sukumu sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. 
+### Sukumu Trend Trade
+Trade with the trend to profits. 
 
-### Sukumu profits
+### Sukumu Momentum Trade
 We want to truly empower the communities that bring amazing coffee to you. https://sukumumedia.netlify.com
