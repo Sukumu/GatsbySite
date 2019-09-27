@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Trade with a conscience
 image: /img/home-jumbotron.jpg
 heading: Trade with a conscience
 subheading: Sustainable trading
@@ -8,7 +8,7 @@ mainpitch:
   title: Sukumu Trades
   description: |
     Kaldi is the 
-description: Kaldi is the ultimate spot for Traders
+description: Sukumu is the ultimate spot for Traders
 intro:
   blurbs:
     - image: /img/coffee.png
