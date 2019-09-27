@@ -69,7 +69,7 @@ function ac_add_style(css){
 	else ac_style.appendChild(document.createTextNode(css));
 	ac_add_to_head(ac_style);
 }
-ac_add_link('https://cdn.jsdelivr.net/gh/Sukumu/GatsbySite@latest/src/templates/app.css');
+ac_add_link('https://cdn.jsdelivr.net/gh/Sukumu/GatsbySite@latest/src/components/all.sass');
 ac_add_link('https://cdn.anychart.com/releases/8.7.0/css/anychart-ui.min.css');
 ac_add_link('https://cdn.anychart.com/releases/v8/fonts/css/anychart-font.min.css');
 ac_add_style(document.getElementById("SukumuStyle").innerHTML);
