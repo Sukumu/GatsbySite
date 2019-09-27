@@ -50,24 +50,7 @@ export const ProductPageTemplate = ({
 <script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-data-adapter.min.js"></script>
 <script src="https://cdn.anychart.com/csv-data/csco-daily-short.js"></script>
 <div id="SukumuStyle" style="display:none;">
-html, body {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-}
-select {
-    margin: 10px 0 0 10px;
-}
-button {
-    margin: 10px 0 0 5px;
-}
-#container {
-    position: absolute;
-    width: 100%;
-    top: 35px;
-    bottom: 0;
-}
+
 </div>
 
 <script>(function(){
@@ -86,6 +69,7 @@ function ac_add_style(css){
 	else ac_style.appendChild(document.createTextNode(css));
 	ac_add_to_head(ac_style);
 }
+ac_add_link('https://cdn.jsdelivr.net/gh/Sukumu/GatsbySite@latest/src/templates/App.css');
 ac_add_link('https://cdn.anychart.com/releases/8.7.0/css/anychart-ui.min.css');
 ac_add_link('https://cdn.anychart.com/releases/v8/fonts/css/anychart-font.min.css');
 ac_add_style(document.getElementById("SukumuStyle").innerHTML);
