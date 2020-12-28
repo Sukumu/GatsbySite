@@ -4,6 +4,8 @@ path: /products
 title: title
 image: /img/jumbotron.jpg
 heading: heading
+
+---
 description: description
 intro:
   blurbs:
@@ -62,3 +64,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+published: true
+---
