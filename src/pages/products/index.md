@@ -1,4 +1,4 @@
----------
+---
 templateKey: product-page
 path: /products
 title: title
