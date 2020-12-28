@@ -1,7 +1,3 @@
----
-templateKey: product-page
-path: /products
-title: title
 <!doctype html>
 <html>
 <head>
@@ -40,6 +36,3 @@ title: title
 <div class="output"></div>
 </body>
 </html>
-  
-published: true
----
